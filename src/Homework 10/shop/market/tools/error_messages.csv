@@ -1,0 +1,10 @@
+CODE,MESSAGE
+missed_param, "One or more required params missed..."
+method_not_allowed, "Method not allowed."
+obj_not_found, "Object with given id not found"
+not_verified, "User is not verified"
+username_not_found, "User with such username was not found"
+invalid_password, "Invalid current password"
+wrong_password, "Incorrect username or password"
+not_register, "User does not exist"
+is_not_active, "The user is not active. Please contact an administrator"

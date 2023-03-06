@@ -1,0 +1,9 @@
+migrations
+media.py
+pyvenv.cfg
+include
+bin
+lib
+lib64
+shopenv
+__pycache__
